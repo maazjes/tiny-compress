@@ -10,10 +10,14 @@ Install the dependencies by running:
 sudo apt update
 ```
 
-Käynnistä Ohjelma komennolla:
+and:
 
 ```bash
 sudo apt install webp
 ```
 
 After installing the dependencies, you can install the plugin as you normally would.
+
+## Demo
+
+https://github.com/maazjes/tiny-compress/assets/59210742/702dfd64-6a91-4ec4-9c8a-401b3976c53d
