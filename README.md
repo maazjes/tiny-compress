@@ -1,6 +1,6 @@
 # Tiny Compress
 
-Tiny Compress is a simpel WordPress plugin, which allows compressing images by using TinyPNG API and cwebp command line tool. It will first compress each image size with TinyPNG and then convert the compressed images into webp files for further optimization. When compressing, a backup is saved, which allows to undo the process later.
+Tiny Compress is a simple WordPress plugin, which allows compressing images by using TinyPNG API and cwebp command line tool. It will first compress each image size with TinyPNG and then convert the compressed images into webp files for further optimization. When compressing, a backup is saved, which allows to undo the process later. Use this plugin together with my other plugin, [Remove Image Sizes](https://github.com/maazjes/tiny-compress), for full scale image optimization.
 
 ## Installation
 
