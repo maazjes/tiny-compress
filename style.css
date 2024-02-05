@@ -1,0 +1,24 @@
+.tc-message {
+    margin-top: 5px;
+}
+
+.tc-spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 50%;
+    animation: spin 1s ease infinite;
+    position: absolute;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.tc-compress.button, .tc-restore.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
